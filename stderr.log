@@ -1,0 +1,14 @@
+DOWNLOAD TRACES
+============================================================
+RUNNING
+============================================================
+./ChampSim/Other_PF/bin/./ChampSim/Other_PF/bin/ip_stride
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+./ChampSim/Other_PF/bin/./ChampSim/Other_PF/bin/ipcp_isca2020
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+./ChampSim/Other_PF/bin/./ChampSim/Other_PF/bin/mlop_dpc3
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+./ChampSim/Other_PF/bin/./ChampSim/Other_PF/bin/vberti
+GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Results
+============================================================
